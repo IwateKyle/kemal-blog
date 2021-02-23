@@ -1,0 +1,13 @@
+name: kemal-blog
+version: 0.1.0
+
+authors:
+  - Kyle Manning <kyle.manning@gmail.com>
+
+targets:
+  kemal-blog:
+    main: src/kemal-blog.cr
+
+crystal: 0.36.1
+
+license: MIT
